@@ -1,0 +1,51 @@
+html, body {
+	overflow: hidden;
+	height: 100%;
+	margin: 0;
+	background-color: black;
+}
+
+.chicks {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+
+}
+
+.hey {
+	font-size: 4em;
+	color: white;
+	border: none;
+	outline: none;
+	background-color: transparent;
+	font-family: 'Reenie Beanie', cursive;
+}
+
+.dudes {
+	height: 70%;
+	width: 100%;
+	position: absolute;
+	display: table;
+}
+
+.kids {
+	top: 70%;
+	height: 30%;
+	width: 100%;
+	position: absolute;
+	display: table;
+}
+
+.there {
+	font-size: 4em;
+	color: white;
+	width: 100%;
+	font-family: 'Reenie Beanie', cursive;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.sketch {
+	background-color: black;
+}
